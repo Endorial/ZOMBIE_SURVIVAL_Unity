@@ -11,6 +11,8 @@ Table of Contents
 
 ## 1. Prerequisites
 
+### If you just wanna try the game just download the zip , extract it to your location or folder of choice, acces the "RUN_EXE" folder and run Zombie Apocalypse.exe 
+
 Unity version insert version or higher.
 [Unity]([https://store.unity.com/download](https://unity.com/download))
 
